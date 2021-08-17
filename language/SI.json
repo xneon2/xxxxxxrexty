@@ -1,8 +1,8 @@
 {
     "__ASENAJSON__": true,
-    "LANGUAGE": "Türkçe",
-    "LANGCODE": "tr",
-    "AUTHOR": "AsenaDev",
+    "LANGUAGE": "sinhala",
+    "LANGCODE": "si",
+    "AUTHOR": "tenuh",
     "STRINGS": { 
         "_asena": {
             "COMMAND": "Komut",
